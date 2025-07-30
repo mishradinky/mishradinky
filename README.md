@@ -1,6 +1,6 @@
 # 👋 Heya, I am Dinky
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=mishradinky.visitor-badge)](https://github.com/mishradinky)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mishradinky/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=mishradinky.visitor-badge)](https://github.com/mishradinky) [![Twitter](https://img.shields.io/twitter/follow/your_twitter?style=social)](https://twitter.com/your_twitter) [![Blog](https://img.shields.io/badge/my-blog-green)](https://your-blog-url.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mishradinky/)
 
 **A data engineer by profession and a curious explorer at heart.**
 
