@@ -109,6 +109,6 @@ Thank you so much 🙏
   
 ### "Turning data into impact, one pipeline at a time"
 
-[[![Profile Views](https://visitcount.itsvg.in/api?id=mishradinky&icon=0&color=0)](https://visitcount.itsvg.in)](https://komarev.com/ghpvc/?username=mishradinky&color=brightgreen&style=flat-square&label=Profile+Views)
+**Profile Views:** ![](https://hit.yhype.me/github/profile?user_id=mishradinky)
 
 </div>
