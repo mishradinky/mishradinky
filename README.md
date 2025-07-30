@@ -1,6 +1,6 @@
 # 👋 Heya, I am Dinky
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=mishradinky.visitor-badge)](https://github.com/mishradinky) [![Twitter](https://img.shields.io/twitter/follow/your_twitter?style=social)](https://twitter.com/your_twitter) [![Blog](https://img.shields.io/badge/my-blog-green)](https://your-blog-url.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mishradinky/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=mishradinky.visitor-badge)](https://github.com/mishradinky)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mishradinky/)
 
 **A data engineer by profession and a curious explorer at heart.**
 
@@ -57,8 +57,19 @@ I'm passionate about turning data into impact and simplifying complex problems w
 <div align="center">
   
 ### Most Used Languages
+
+<div align="left">
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mishradinky&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d)
+**Python** ![Python](https://img.shields.io/badge/-45%25-3776AB?style=flat-square&logo=python&logoColor=white)  
+████████████████████████████████████████████████ 45%
+
+**PySpark** ![PySpark](https://img.shields.io/badge/-30%25-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)  
+████████████████████████████████████ 30%
+
+**SQL** ![SQL](https://img.shields.io/badge/-25%25-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+████████████████████████████ 25%
+
+</div>
 
 ### Dinky's GitHub Stats
 
