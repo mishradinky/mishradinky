@@ -109,6 +109,6 @@ Thank you so much 🙏
   
 ### "Turning data into impact, one pipeline at a time"
 
-[**Profile Views:** ![](https://hit.yhype.me/github/profile?user_id=mishradinky)](https://visitor-badge.laobi.icu/badge?page_id=mishradinky&left_text=Profile%20Views&left_color=gray&right_color=blue)
+[**Profile Views** ![](https://hit.yhype.me/github/profile?user_id=mishradinky)](https://visitor-badge.laobi.icu/badge?page_id=mishradinky&left_text=Profile%20Views&left_color=gray&right_color=blue)
 
 </div>
